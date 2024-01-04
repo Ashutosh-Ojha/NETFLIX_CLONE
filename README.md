@@ -17,7 +17,6 @@ Features
 Technologies Used
 
     Frontend: Employed HTML, CSS, and JavaScript to construct the user-facing interface.
-    Backend: (Include backend technologies, if applicable, or specify if it's frontend-only)
 
 
 Installation
@@ -27,7 +26,6 @@ Installation
         Usage
     Exploration: Dive into the site to witness the replicated Netflix interface in action.
     Content Navigation: Browse through diverse categories and delve into the showcased content.
-        (Include any specific instructions for users or contributors)
 
 
 Known Issues
